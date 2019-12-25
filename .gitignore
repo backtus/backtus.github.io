@@ -60,6 +60,7 @@ typings/
 .env
 .env.development
 .env.production
+.ghost.json
 
 # IDE
 .idea/*
@@ -78,3 +79,4 @@ yarn-error.log
 
 # Local Netlify folder
 .netlify
+package-lock.json
